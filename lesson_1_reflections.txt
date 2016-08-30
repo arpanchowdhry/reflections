@@ -1,0 +1,9 @@
+1. Reflections of learning to find a diff between two files to fine a bug
+ 
+* After all these years, I did know of this basic tool
+* It is very useful to be able to find a diff between any two files and not guess.
+
+2. 	How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+* Previous version automatically saved is very useful
+* Wiki, google docs, box, netapp home all support this. I think internally all use snapshots.
